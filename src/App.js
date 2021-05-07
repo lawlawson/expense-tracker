@@ -24,7 +24,6 @@ const App = () => {
   ];
   return (
     <div>
-      <h2>Expense Tracker</h2>
       <Expenses expenses={expenses} />
     </div>
   );
