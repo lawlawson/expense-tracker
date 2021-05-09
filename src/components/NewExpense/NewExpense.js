@@ -5,9 +5,9 @@ import ExpenseForm from './ExpenseForm';
 
 const NewExpense = () => {
   return (
-    <form className='new-expense'>
+    <div className='new-expense'>
       <ExpenseForm />
-    </form>
+    </div>
   );
 };
 
